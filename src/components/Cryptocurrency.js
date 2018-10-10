@@ -6,7 +6,7 @@ class Cryptocurrency extends Component {
 
 
     //use object destructuring, data is a property containing all the
-    //data needed for a single cryptocurrency, that we will
+    //data needed for a single cryptocurency, that we will
     // eventually pass in from the parent component.
     render() {
         var {
